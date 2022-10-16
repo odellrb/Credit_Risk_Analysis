@@ -19,5 +19,5 @@
  ![Credit_risk](Resources/over_sampling_matrix.png)
  ![Credit_risk](Resources/over_sampling_report.png)
 
-##SMOTE Oversampling
+## SMOTE Oversampling
 ![Credit_risk](Resources/.png)
