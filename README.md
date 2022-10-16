@@ -13,11 +13,13 @@
  7. Use ensemble and resampling techniques to improve model performance.
  
  ## Results:
- The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:
+ The results for the six machine learning models including their respective balanced accuracy and recall scores are as follows:
  
  ## Random Oversampling
  ![Credit_risk](Resources/over_sampling_matrix.png)
  ![Credit_risk](Resources/over_sampling_report.png)
+1. Balanced Accuracy: 0.8440938486973113
+2. Recall: High/Low risk = .82/.87
 
 ## SMOTE Oversampling
 ![Credit_risk](Resources/.png)
