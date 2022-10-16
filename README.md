@@ -15,5 +15,9 @@
  ## Results:
  The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:
  
- 
- 
+ ## Random Oversampling
+ ![Credit_risk](Resources/over_sampling_matrix.png)
+ ![Credit_risk](Resources/over_sampling_report.png)
+
+##SMOTE Oversampling
+![Credit_risk](Resources/.png)
