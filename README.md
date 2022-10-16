@@ -22,4 +22,8 @@
 2. Recall: High/Low risk = .82/.87
 
 ## SMOTE Oversampling
-![Credit_risk](Resources/.png)
+![Credit_risk](Resources/Smote_matrix.png)
+![Credit_risk](Resources/Smote_report.png)
+
+1. Balanced Accuracy: 0.8440938486973113
+2. Recall: High/Low risk = .82/.87
