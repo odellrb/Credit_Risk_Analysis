@@ -18,7 +18,7 @@
  ## Random Oversampling
  ![Credit_risk](Resources/over_sampling_matrix.png)
  ![Credit_risk](Resources/over_sampling_report.png)
-1. Balanced Accuracy: 0.8440938486973113
+1. Balanced Accuracy: 0.8325468421491353
 2. Recall: High/Low risk = .82/.87
 
 ## SMOTE Oversampling
