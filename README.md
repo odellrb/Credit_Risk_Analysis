@@ -31,3 +31,8 @@
 ## Undersampling
 ![Credit_risk](Resources/undersample_matrix.png)
 ![Credit_risk](Resources/undersample_report.png)
+
+1. Balanced Accuracy: 0.8440938486973113
+2. Recall: High/Low risk = .82/.87
+
+## Combination Under-Over Sampling
