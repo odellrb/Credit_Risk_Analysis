@@ -48,3 +48,12 @@
 
 1. Balanced Accuracy: 0.759
 2. Recall: High/Low risk = .63/.88
+
+![Credit_risk](Resources/en_matrix.png)
+![Credit_risk](Resources/en_report.png)
+
+1. Balanced Accuracy: 0.759
+2. Recall: High/Low risk = .63/.88
+
+![Credit_risk](Resources/top_10.png)
+
