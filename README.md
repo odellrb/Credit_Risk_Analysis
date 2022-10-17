@@ -55,5 +55,10 @@
 1. Balanced Accuracy: 0.759
 2. Recall: High/Low risk = .63/.88
 
+## Top 10 Important Features
+
 ![Credit_risk](Resources/top_10.png)
 
+## Summary:
+
+When working with balanced accuracy, the highest compared accuracy between 0 and 1 and is closest to 1 is the best machine learning model. For the credit card data set, the Combonation over and undersampling is the best model to choose with its .84 balanced accuracy. The other models were below .80 balanced accuracy. The precision for all models were similar and within an appropriate range. The recall score also needs to fall within 0 and 1, with numbers closer to 1 being the better model. The Over and undersampling had the highest recall score, making it the final best machine learning model to choose for further credit card analysis.
