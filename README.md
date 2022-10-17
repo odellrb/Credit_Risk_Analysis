@@ -41,3 +41,10 @@
 
 1. Balanced Accuracy: 0.8440938486973113
 2. Recall: High/Low risk = .82/.87
+
+## Balanced Random Forest Classifier
+[Credit_risk](Resources/BFC_matrix.png)
+![Credit_risk](Resources/BFC_report.png)
+
+1. Balanced Accuracy: 
+2. Recall: High/Low risk = .63/.88
